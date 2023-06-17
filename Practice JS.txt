@@ -1,0 +1,13 @@
+###	Where to Practice JS ??		###
+
+
+# jshero.net - Beginner
+# edabit.com
+# w3resource.com - Beginner to Intrmediate
+# dreamincode.net - get project idea
+# asmrterwaytolearn.com - Beginner to Intrmediate
+# Exercism
+# maxpou.fr - Intermidate to Advanced(interview related)
+# teaching-materials.org - Intermidate to Advanced (with solution)
+# sitepoint.com - Intermidate (with solution)
+# jschallenger.com
