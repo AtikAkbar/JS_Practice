@@ -5,3 +5,4 @@ function make_avg(a,b,c) {
 }
 
 make_avg(4,5,6)
+
